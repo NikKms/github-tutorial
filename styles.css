@@ -1,9 +1,8 @@
 body{
-   background-color: #fff;
+   background-color: rgb(208, 23, 23);
    color: #bbb;
-
 }
 .Body-head {
-    margin-top: 700px;
+    
     color: blue;
 }
